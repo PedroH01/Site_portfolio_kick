@@ -8,6 +8,8 @@ Section 1- Está é a seção home, onde eu me apresento
 
 Section 2- Está é a seção de projetos, onde eu mostro algumas fotos de site que programei![Sobre mim – Pedro - Google Chrome 01_12_2021 19_23_49](https://user-images.githubusercontent.com/74620116/144323921-ed0b36aa-9b15-4170-b544-fe29033910f9.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Section 3- Está é a seção de habilidades, onde mostro um pouco do que sei 
 ![Sobre mim – Pedro - Google Chrome 01_12_2021 19_26_18](https://user-images.githubusercontent.com/74620116/144324195-d60e898f-3262-42b8-aacb-a2c673924e7b.png)
 
