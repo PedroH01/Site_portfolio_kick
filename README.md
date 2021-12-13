@@ -1,6 +1,8 @@
 # Site_portfolio_kick
 Aqui está o link para o acesso do site : https://drive.google.com/drive/folders/1IfXirLdVP-TeQTKizg7F36sisfU5EJkn?usp=sharing
 
+Link Atualizado para meu portfólio : http://pedro-henrique.soukick.ml/sobre-mim/
+
 Section 1- Está é a seção home, onde eu me apresento
 ![Sobre mim – Pedro - Google Chrome 01_12_2021 19_21_54](https://user-images.githubusercontent.com/74620116/144323987-033859b3-6da2-420d-8913-f2324ff720bc.png)
 
