@@ -15,7 +15,6 @@ Section 2- Está é a seção de projetos, onde eu mostro algumas fotos de site 
 
 Section 3- Está é a seção de habilidades, onde mostro um pouco do que sei 
 ![Sobre mim – Pedro - Google Chrome 15_12_2021 18_20_02 (2)](https://user-images.githubusercontent.com/74620116/146267385-522a093d-ebf5-4bf5-97e2-9bdaa6beaeba.png)
-cb-a2c673924e7b.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
