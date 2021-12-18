@@ -1,6 +1,8 @@
 # Site_portfolio_kick
 Aqui está o link para o acesso do site : https://drive.google.com/drive/folders/1IfXirLdVP-TeQTKizg7F36sisfU5EJkn?usp=sharing
 
+PDF desta página : [Captura da Web_18-12-2021_141218_pedro-henrique.soukick.ml.pdf](https://github.com/PedroH01/Site_portfolio_kick/files/7739629/Captura.da.Web_18-12-2021_141218_pedro-henrique.soukick.ml.pdf)
+
 Link Atualizado para meu portfólio : http://pedro-henrique.soukick.ml/sobre-mim/
 
 Section 1- Está é a seção home, onde eu me apresento
